@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #F9FBFA;
+  background-color: #f0fdf6;
   font-family: "Bebas Neue", sans-serif;
   text-align: center;
   align-items: center;
@@ -28,7 +28,7 @@ ul {
 
 li {
   display: inline-block; 
-  background-color: #dae3f3;
+  background-color: #ffffff;
   padding: 1rem;
   margin: 0.5rem;
   width: 200px;
@@ -44,7 +44,7 @@ li {
 }
 
 li:hover{
-  box-shadow: 0 0 0 0 #fff inset, #a6a6a6 0 0 0 2px;
+  box-shadow: 0 0 0 0 #fff inset, #c2ffde 0 0 0 2px;
 }
 
 h2 {
